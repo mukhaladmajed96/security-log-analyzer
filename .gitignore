@@ -47,3 +47,15 @@ Thumbs.db
 # Replit
 .cache/
 .local/
+.replit
+.replitignore
+.npmrc
+artifacts/
+lib/
+scripts/
+package.json
+pnpm-lock.yaml
+pnpm-workspace.yaml
+replit.md
+tsconfig.base.json
+tsconfig.json
